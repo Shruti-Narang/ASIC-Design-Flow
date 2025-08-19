@@ -1,5 +1,5 @@
 # ASIC-Design-Flow
-# 16-Point-FFT---ASIC-Design-Flow
+# 16-Point-FFT-ASIC-Design-Flow
 
 1) The project involves the design of the Discrete Fourier Transform(DFT) of a 16-point sequence using the Fast Fourier Transform(FFT) algorithm and involves ASIC design for the same.
 2) The Synthesis and Simulation is carried out on Quartus Prime (EDA tool) and Questa Sim simulator.
